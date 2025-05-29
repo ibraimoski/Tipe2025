@@ -14,8 +14,7 @@ ImagePathsEtiquetees = list[ImagePathEtiquetee]
 ImageVecteurs = list[ImageVecteur]
 
 
-images = [ ("C:/Users/alban/Downloads/1748375982679.jpg", "soleil")] 
-vecteur = ( )
+images = [ ("C:/folder/exemple.jpg", "exemple")]
 # les listes, composées de sous listes de type homogène
 
 L_Groupes_defaut = [[("C:/Users//image.jpg", "exemple1"), ("C:/Users//image2.jpg", "exemple1")] , # une norme assicié au groupe
